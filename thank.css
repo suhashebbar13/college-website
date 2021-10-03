@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url("student2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+  .sugas1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 36px;
+    color:rgb(12, 12, 12);
+  }
+
+  .home{
+    padding-left: 30px;
+  }
+
+  .button{
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    border-radius: 10px;
+    background-color: #ff7f1a;
+  }

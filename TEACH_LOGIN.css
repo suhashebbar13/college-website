@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url("teacher1.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    
+}
+
+.container1 {
+    position: absolute;
+    top: 8%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    padding: 2rem;
+    background: rgba(0, 0, 0, 0.521);
+    box-sizing: border-box;
+    box-shadow: 0 16px 26p rgba(0, 0, 0, 0.897);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.container1 h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+}
+input,textarea {
+    width: 70%;
+    padding: 0.8rem;
+    border-radius: 20px;
+    border:none;
+}
+
+button {
+    width:20%;
+    padding: 0.6rem;
+    background-color: rgb(35, 230, 9);
+    border-radius: 6px;
+    color:rgb(12, 11, 11);
+
+}
+.a1 :hover{
+    background-color: white;
+}
+
+
